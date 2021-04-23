@@ -1,0 +1,51 @@
+{applyingAs: "C-Corp ", purposeOfLoan: Array(3), businessName: "Madras Science Research Foundation", email: "azimaahmed36@gmail.com", federalTaxId: "11", …}
+AllFiles: (4) [Array(1), Array(1), Array(1), Array(1)]
+DBA: "11"
+DateOBApplicant: "2021-04-30"
+FICO: "11"
+FirstSbaLoanNo: "1223443234"
+KnowUs: "asdsada"
+MerchantBusinessLoanAccount: "yes"
+OwnerFirstName: "Azim"
+OwnerLastName: "Ahamed"
+Ownership: "asdasd"
+POwnership: "12"
+PartnerDateOB: "2021-04-30"
+PartnerFirstName: "Azim"
+PartnerLastName: "Ahamed"
+PartnerSSN: "11111"
+PromotionCode: "asdasd"
+SSN: "11"
+TermsAndConditionsTrue: "TermsAndConditionsTrue"
+addressTwo: "no need"
+agreeWithLoanAcc: "yes"
+applyingAs: "C-Corp "
+businessName: "Madras Science Research Foundation"
+businessPhoneNo: "+8801966478542"
+businessStartedDate: "2021-04-24"
+city: "orlando"
+email: "azimaahmed36@gmail.com"
+federalTaxId: "11"
+gotDisasterLoan: "yes"
+hasBusinessOfOwner: "no"
+involvedBankruptcy: "yes"
+message: "we are hee"
+monthlyRevenue: "$50,000-$100,000"
+ownerDefaultedLoss: "no"
+ownerPhoneNumber: "+8801966478542"
+partnerFICO: "adsasdasd"
+partnerPhoneNumber: "+8801966478542"
+purposeOfLoan: (3) ["payroll", "Utilities", "Covered Operations Expenditures"]
+receivedFunding: "$0-$50,000"
+state: "ID"
+street: "59, tipu Sultan road ,  wari. ,  dhaka"
+trimmedState: {trimmedDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaAA…IvGkIy345Q3A1uOOYNvwflGIDLFAYENcAAAAASUVORK5CYII="}
+zipCode: "1200"
+
+applyingAs,purposeOfLoan,businessName,email,federalTaxId,DBA, businessPhoneNo, businessStartedDate,street,addressTwo, city,state,zipCode,monthlyRevenue, receivedFunding,FirstSbaLoanNo, MerchantBusinessLoanAccount, involvedBankruptcy,ownerDefaultedLoss, hasBusinessOfOwner,gotDisasterLoan,OwnerFirstName, OwnerLastName,Ownership,SSN, FICO,DateOBApplicant, ownerPhoneNumber, PartnerFirstName, PartnerLastName, POwnership,PartnerSSN,partnerFICO,partnerPhoneNumber,PartnerDateOB,agreeWithLoanAcc,PromotionCode,KnowUs,message,TermsAndConditionsTrue,AllFiles
+
+ // for (let i = 0; i < AllFiles.length; i++) {
+    //     formData.append('files', AllFiles[i]);
+    // }
+
+  data: '{"applyingAs":"C-Corp ","purposeOfLoan":["payroll"],"businessName":"Madras Science Research Foundation","email":"azimaahmed36@gmail.com","federalTaxId":"222","DBA":"12212","businessPhoneNo":"+8801966478542","businessStartedDate":"2021-04-24","street":"59, tipu Sultan road ,  wari. ,  dhaka","addressTwo":"no need","city":"Pabna","state":"AL","zipCode":"1200","monthlyRevenue":"$250,000-$500,000","receivedFunding":"$100,000-$250,000","FirstSbaLoanNo":"1223443234","MerchantBusinessLoanAccount":"yes","involvedBankruptcy":"yes","ownerDefaultedLoss":"yes","hasBusinessOfOwner":"yes","gotDisasterLoan":"yes","OwnerFirstName":"Azim","OwnerLastName":"Ahamed","Ownership":"qq","SSN":"w2w","FICO":"w","DateOBApplicant":"0022-02-22","ownerPhoneNumber":"222","PartnerFirstName":"22","PartnerLastName":"2","POwnership":"22","PartnerSSN":"22","partnerFICO":"22","partnerPhoneNumber":"+8801966478542","PartnerDateOB":"0022-02-22","agreeWithLoanAcc":"yes","PromotionCode":"22","KnowUs":"22","message":"22","TermsAndConditionsTrue":"TermsAndConditionsTrue"}',
